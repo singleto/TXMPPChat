@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\TXMPPChat\app\src\main\libs\asmack-android-10-0.8.1.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e3899f69555bd7129bfd9667e7c921470cde80c4">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\TXMPPChat\app\build\intermediates\pre-dexed\debug\asmack-android-10-0.8.1.1-2d40e0918ba56390c3b9266df13de343faa142a6.jar" />
+    </item>
+
+</items>
